@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="330" viewBox="0 0 1600 330" role="img" aria-label="X1 public and private boundary">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#03080D"/><stop offset="1" stop-color="#060D17"/></linearGradient></defs>
+  <rect width="1600" height="330" rx="24" fill="url(#bg)"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="70" y="64" fill="#6BDCEB" font-size="15" letter-spacing="5">X1 / TRUST BOUNDARY</text>
+    <text x="70" y="112" fill="#fff" font-size="36" font-weight="800">SHOW THE PRODUCT. PROTECT THE BLUEPRINT.</text>
+    <path d="M800 144V282" stroke="#1DE8FF" stroke-width="3" stroke-dasharray="7 10"/>
+    <g transform="translate(70 154)"><text x="0" y="28" fill="#1DE8FF" font-size="15" letter-spacing="4">PUBLIC</text><text x="0" y="68" fill="#fff" font-size="27" font-weight="700">Projects • capabilities • community</text><text x="0" y="105" fill="#A7C3CC" font-size="18">Enough to understand, install and use what we release.</text></g>
+    <g transform="translate(870 154)"><text x="0" y="28" fill="#7897FF" font-size="15" letter-spacing="4">PRIVATE</text><text x="0" y="68" fill="#fff" font-size="27" font-weight="700">R&amp;D • operations • proprietary systems</text><text x="0" y="105" fill="#A7C3CC" font-size="18">Security, internal architecture and business-critical implementation stay protected.</text></g>
+  </g>
+</svg>
