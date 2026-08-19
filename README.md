@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/x1-profile-banner.svg" alt="X1 — Next Generation Digital Platform" width="100%" />
+  <img src="./assets/x1-profile-banner.svg" alt="X1" width="100%" />
 </p>
 
 <h1 align="center">X1</h1>
 
 <p align="center">
   <strong>BUILD. CONTROL. AUTOMATE. SCALE.</strong><br>
-  IPTV · Android · AI · Automation · Infrastructure
+  Public software · IPTV technology · Android / TV · Automation · AI-assisted operations
 </p>
 
 <p align="center">
@@ -16,245 +16,179 @@
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-X1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/x1-dotcom?style=flat-square&logo=github&label=FOLLOWERS&color=11D9FF">
-  <img alt="Security" src="https://img.shields.io/badge/SECURE-BY_DESIGN-111827?style=flat-square&logo=shield&logoColor=11D9FF">
-  <img alt="Automation" src="https://img.shields.io/badge/AUTOMATION-FIRST-111827?style=flat-square&logo=githubactions&logoColor=11D9FF">
-  <img alt="Identity" src="https://img.shields.io/badge/ONE_IDENTITY-X1-111827?style=flat-square&logo=github&logoColor=11D9FF">
-</p>
+---
+
+## About X1
+
+**X1 is a software and technology ecosystem built around control, automation and operational reliability.**
+
+We develop public community software alongside private commercial platforms and internal R&D.
+
+What you see on this GitHub profile is the **public part of X1** — not the complete internal architecture.
+
+Our rule for public releases is simple:
+
+> **If X1 publishes it publicly, it is intended to be useful as released — not a deliberately crippled demo designed only to force a paid unlock.**
+
+Commercial X1 products exist separately. Private repositories, infrastructure, security mechanisms, customer environments, internal automation and proprietary implementation details remain private.
 
 ---
 
-<table>
-<tr>
-<td width="66%" valign="top">
+## Public X1 Software
 
-## ⚡ Welcome to X1
+These are independent public projects under the X1 identity. They are not one giant application and they are not presented as paid modules of a single panel.
 
-**X1** is a technology ecosystem focused on powerful control platforms, Android experiences, automation systems and infrastructure tooling.
+### X1 Stream Manager Community
 
-We design for **performance, control, security and scale** — from public community tools to commercial-grade systems.
+Community stream-management tooling developed under X1.
 
-### Core idea
+[Open X1 Stream Manager Community](https://github.com/x1-dotcom/X1-Stream-Manager-Community)
 
-**One ecosystem. One identity. X1.**
+### X1 Panel XCIPTV
 
-- Community-driven public projects
-- Commercial-grade control platforms
-- Android and TV experiences
-- Automation and provisioning
-- AI-assisted operations
-- Security-first architecture
+Public X1 control-panel project for compatible application workflows.
 
-</td>
-<td width="34%" align="center" valign="middle">
-  <img src="./assets/x1-mascot.svg" width="100%" alt="X1 Cyber mascot">
-</td>
-</tr>
-</table>
+[Open X1 Panel XCIPTV](https://github.com/x1-dotcom/X1-Panel-XCIPTV)
 
----
+### X1 TiviMate Community
 
-## 🛰️ X1 Live Systems
+Public X1 project for TiviMate-related management workflows.
 
-<p align="center">
-  <img src="./assets/x1-live-systems.svg" width="100%" alt="X1 Live Systems">
-</p>
+[Open X1 TiviMate Community](https://github.com/x1-dotcom/x1tivimate)
 
-<p align="center">
-  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/last-commit/x1-dotcom/X1-Stream-Manager-Community?style=flat-square&label=STREAM%20MANAGER&color=11D9FF"></a>
-  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/last-commit/x1-dotcom/X1-Panel-XCIPTV?style=flat-square&label=XCIPTV&color=199BFF"></a>
-  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/last-commit/x1-dotcom/x1tivimate?style=flat-square&label=TIVIMATE&color=11D9FF"></a>
-  <a href="https://github.com/x1-dotcom/picons"><img src="https://img.shields.io/github/last-commit/x1-dotcom/picons?style=flat-square&label=PICONS&color=199BFF"></a>
-</p>
+### X1 Smarters V5
+
+Public X1 project in the Android / TV application tooling family.
+
+[Open X1 Smarters V5](https://github.com/x1-dotcom/Smarters-V5)
+
+### X1 Picons
+
+Modern X1 picon catalogue and tooling organised for multi-country use.
+
+[Open X1 Picons](https://github.com/x1-dotcom/picons)
+
+### X1 EPG
+
+X1 EPG catalogue, validation and ingestion tooling with explicit provenance, validation and publication-rights controls.
+
+[Open X1 EPG](https://github.com/x1-dotcom/x1epg)
 
 ---
 
-## 🚀 Featured Public Projects
+## Free Public Software ≠ Commercial X1 Platform
 
-<p align="center">
-  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="./assets/card-stream-manager.svg" width="49%" alt="X1 Stream Manager Community"></a>
-  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="./assets/card-xciptv.svg" width="49%" alt="X1 Panel XCIPTV"></a>
-</p>
+X1 does **not** use the public repositories as a bait-and-switch model where the useful part is intentionally removed and sold back as an unlock.
 
-<p align="center">
-  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="./assets/card-tivimate.svg" width="49%" alt="X1 TiviMate Community"></a>
-  <a href="https://github.com/x1-dotcom/Smarters-V5"><img src="./assets/card-smarters.svg" width="49%" alt="X1 Smarters V5"></a>
-</p>
+The public repositories and the commercial X1 platform are different things.
 
-<p align="center">
-  <a href="https://github.com/x1-dotcom/picons"><img src="./assets/card-picons.svg" width="49%" alt="X1 Picons"></a>
-</p>
+**Public X1 software** focuses on community tools, application panels, catalogues and reusable utilities.
 
-<p align="center">
-  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/stars/x1-dotcom/X1-Stream-Manager-Community?style=for-the-badge&label=STREAM%20MANAGER%20STARS&color=11D9FF"></a>
-  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/stars/x1-dotcom/X1-Panel-XCIPTV?style=for-the-badge&label=XCIPTV%20STARS&color=199BFF"></a>
-  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/stars/x1-dotcom/x1tivimate?style=for-the-badge&label=TIVIMATE%20STARS&color=11D9FF"></a>
-</p>
+**Commercial X1 technology** covers separate products and services built for larger operational requirements.
+
+We do not publish the internal design, security model, infrastructure topology, private APIs, automation logic, customer environments or proprietary operational details of those systems.
 
 ---
 
-## 💎 Commercial & Core Platform
+## X1 IPTV Platform
 
-<p align="center">
-  <img src="./assets/card-commercial-platform.svg" width="49%" alt="X1 Commercial Platform">
-  <img src="./assets/card-ai-ops.svg" width="49%" alt="X1 AI Customer Ops">
-</p>
+X1 also develops its own **IPTV management platform, built from the ground up as an X1 system**.
 
-<p align="center">
-  <img src="./assets/card-android-tv-v2.svg" width="49%" alt="X1 Android and TV">
-  <img src="./assets/card-infrastructure.svg" width="49%" alt="X1 Infrastructure">
-</p>
+It is a separate product from the public application-control projects shown above.
 
-> These cards describe the public architecture direction of the X1 ecosystem. Private repositories, customer infrastructure, secrets and commercial implementation details remain private.
+At a public level, its role is straightforward: provide operational control for IPTV environments — including the areas expected from a serious management platform such as service configuration, operational state, delivery workflows and platform administration.
+
+Detailed internal architecture, runtime topology, automation, security boundaries and commercial implementation remain private.
 
 ---
 
-## 📡 Release & Platform Status
+## AURA
 
-<p align="center">
-  <img src="./assets/x1-release-status-v2.svg" width="100%" alt="X1 Release and Platform Status">
-</p>
+**AURA is X1's intelligent support and operations layer.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/COMMUNITY-PUBLIC-111827?style=for-the-badge&logo=github&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/COMMERCIAL-PRIVATE-111827?style=for-the-badge&logo=shield&logoColor=199BFF">
-  <img src="https://img.shields.io/badge/ANDROID-ACTIVE-111827?style=for-the-badge&logo=android&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/AI_OPS-EVOLVING-111827?style=for-the-badge&logo=openai&logoColor=199BFF">
-</p>
+Its goal is not simply to answer support messages. AURA is designed to help detect supported incidents, understand operational context, coordinate safe remediation and communicate the result to the customer.
 
----
+For supported low-risk actions, remediation can be automated. Sensitive actions remain subject to policy, permissions and approval controls.
 
-## 🧠 X1 Engineering DNA
+The experience we are building toward is simple:
 
-```text
-X1 ECOSYSTEM
-├── CONTROL
-│   ├── SaaS
-│   ├── Licensing & Entitlements
-│   ├── Control Panels
-│   └── Commercial Workflows
-├── EXPERIENCE
-│   ├── Android / TV
-│   ├── Launchers & Themes
-│   ├── Devices
-│   └── Remote Configuration
-├── INTELLIGENCE
-│   ├── AI Customer Ops
-│   ├── RAG
-│   ├── Workflows
-│   └── Operator Assistance
-├── AUTOMATION
-│   ├── Provisioning
-│   ├── OTA
-│   ├── Jobs
-│   └── Monitoring
-└── INFRASTRUCTURE
-    ├── APIs & Contracts
-    ├── Multi-tenant Services
-    ├── Runtime / Nodes
-    ├── Security
-    └── Observability
-```
+> **The customer should increasingly receive “the issue was detected and resolved” instead of “please contact support”.**
 
-<p align="center">
-  <strong>CONTROL PLANE</strong> · <strong>DEVICE EXPERIENCE</strong> · <strong>AI OPS</strong> · <strong>AUTOMATION</strong> · <strong>SECURITY</strong> · <strong>OBSERVABILITY</strong>
-</p>
+AURA continues to evolve as part of the next generation of the X1 platform. Internal orchestration, security controls, decision logic and proprietary operating methods are not publicly documented.
 
 ---
 
-## 💠 Platform Vision
+## X1 SaaS
 
-| Layer | X1 Focus |
+X1 operates a private SaaS layer for the commercial side of the ecosystem.
+
+Publicly, it is enough to say that the SaaS coordinates commercial platform capabilities such as customer-facing services, licensing and operational product delivery.
+
+The internal data model, contracts, automation flows, integrations, security implementation and business logic are private X1 technology.
+
+---
+
+## Public / Commercial / Private
+
+| Area | Public position |
 |---|---|
-| **Commercial Authority** | Customers, billing, payments, subscriptions, licensing, entitlements and product catalog. |
-| **Operational Control** | Runtime configuration, delivery, nodes, streams, providers and operational state. |
-| **Experience** | Android, TV, launcher, themes, apps and remote configuration. |
-| **Intelligence** | AI orchestration, RAG, workflows, support automation and operator UX. |
-| **Infrastructure** | APIs, secure contracts, deployment, observability, backups and release supply chain. |
+| **Public GitHub software** | Free public projects intended to be usable as released. |
+| **X1 IPTV Platform** | Commercial X1 product built as an independent IPTV management platform. |
+| **X1 SaaS** | Private commercial platform supporting X1 products and services. |
+| **AURA** | Intelligent support and operations technology integrated with the X1 ecosystem. |
+| **Private R&D & Infrastructure** | Proprietary technology, internal systems and business-critical implementation details — not published. |
 
 ---
 
-## 🗺️ Roadmap
+## What X1 Does Not Publish
 
-<p align="center">
-  <img src="./assets/x1-roadmap.svg" width="100%" alt="X1 Roadmap">
-</p>
+To protect customers, platform security and X1 intellectual property, this profile deliberately does not document sensitive internal details such as:
 
-The direction is simple: evolve strong standalone systems into one coherent X1 platform without sacrificing compatibility, control or operational transparency.
+- production infrastructure topology;
+- privileged operational procedures;
+- secrets, signing material or internal credentials;
+- private service-to-service contracts;
+- proprietary automation and remediation logic;
+- internal security controls and anti-abuse mechanisms;
+- customer environments or customer data;
+- unreleased commercial R&D;
+- business-critical implementation details.
 
----
-
-## 🛠 Technology Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-111827?style=for-the-badge&logo=jetpackcompose&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=11D9FF">
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=11D9FF">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=199BFF">
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=199BFF">
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=199BFF">
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=199BFF">
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=199BFF">
-</p>
+Public documentation describes **what X1 offers**, not the blueprint required to reproduce the private platform.
 
 ---
 
-## 🔐 Engineering Principles
+## Engineering Direction
 
-| Principle | X1 Standard |
-|---|---|
-| 🛡️ **Secure by design** | Explicit trust boundaries, signed artifacts and fail-closed behavior. |
-| ⚡ **Performance first** | Fast startup, efficient runtime and minimal unnecessary overhead. |
-| 🤖 **Automation everywhere** | Provisioning, OTA, validation and operational workflows. |
-| 🎯 **One authority per concern** | No duplicated control planes or ambiguous state. |
-| 🧩 **Modular by design** | Components evolve independently while preserving explicit contracts. |
-| 🌍 **Community + commercial** | Public projects coexist with hardened commercial products. |
+X1 software is developed around a small set of principles:
 
----
-
-## 📈 Public Project Activity
-
-<p align="center">
-  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/issues/x1-dotcom/X1-Stream-Manager-Community?style=flat-square&label=STREAM%20ISSUES&color=11D9FF"></a>
-  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/issues/x1-dotcom/X1-Panel-XCIPTV?style=flat-square&label=XCIPTV%20ISSUES&color=199BFF"></a>
-  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/forks/x1-dotcom/x1tivimate?style=flat-square&label=TIVIMATE%20FORKS&color=11D9FF"></a>
-  <a href="https://github.com/x1-dotcom/picons"><img src="https://img.shields.io/github/forks/x1-dotcom/picons?style=flat-square&label=PICONS%20FORKS&color=199BFF"></a>
-</p>
+- **Useful software over artificial limitations**
+- **Security by design**
+- **Clear system responsibilities**
+- **Automation where it improves reliability**
+- **Fast and practical user experience**
+- **Auditability and operational visibility**
+- **Public community work alongside private commercial engineering**
 
 ---
 
-## 🌐 X1 Community Network
+## Community
 
 <p align="center">
   <a href="https://forum.x1panel.space"><img src="https://img.shields.io/badge/FORUM-X1_COMMUNITY-111827?style=for-the-badge&logo=discourse&logoColor=11D9FF"></a>
   <a href="https://discord.gg/vSSw6jHmw"><img src="https://img.shields.io/badge/DISCORD-JOIN_X1-111827?style=for-the-badge&logo=discord&logoColor=5865F2"></a>
-  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img src="https://img.shields.io/badge/TELEGRAM-X1_CHANNEL-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
+  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img src="https://img.shields.io/badge/TELEGRAM-X1-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
 </p>
 
 ---
 
-## 💠 X1 Mission
-
 <p align="center">
-  Build tools that are <strong>fast</strong>, <strong>controllable</strong>, <strong>secure</strong> and <strong>scalable</strong>.<br>
-  Connect the X1 ecosystem under one technical and visual identity.
+  <strong>PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.</strong>
 </p>
-
-<p align="center">
-  <strong>ONE ECOSYSTEM · ONE IDENTITY · X1</strong>
-</p>
-
----
 
 <p align="center">
   <strong>X1</strong><br>
-  Next Generation Digital Platform
+  Software · Platforms · Automation · Operations
 </p>
 
 <p align="center">
