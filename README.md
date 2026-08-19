@@ -25,13 +25,48 @@
 
 ---
 
+<table>
+<tr>
+<td width="66%" valign="top">
+
 ## ⚡ Welcome to X1
 
 **X1** is a technology ecosystem focused on building powerful control platforms, Android experiences, automation systems and infrastructure tooling.
 
 We design for **performance, control, security and scale** — from community projects to commercial-grade platforms.
 
-> **One ecosystem. One identity. X1.**
+### Core idea
+
+**One ecosystem. One identity. X1.**
+
+- Community-driven public projects
+- Commercial-grade control platforms
+- Android and TV experiences
+- Automation and provisioning
+- AI-assisted operations
+- Security-first architecture
+
+</td>
+<td width="34%" align="center" valign="middle">
+  <img src="./assets/x1-mascot.svg" width="100%" alt="X1 Cyber Crew mascot">
+</td>
+</tr>
+</table>
+
+---
+
+## 🛰️ X1 Live Systems
+
+<p align="center">
+  <img src="./assets/x1-live-systems.svg" width="100%" alt="X1 Live Systems">
+</p>
+
+<p align="center">
+  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/last-commit/x1-dotcom/X1-Stream-Manager-Community?style=flat-square&label=STREAM%20MANAGER&color=11D9FF"></a>
+  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/last-commit/x1-dotcom/X1-Panel-XCIPTV?style=flat-square&label=XCIPTV&color=199BFF"></a>
+  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/last-commit/x1-dotcom/x1tivimate?style=flat-square&label=TIVIMATE&color=11D9FF"></a>
+  <a href="https://github.com/x1-dotcom/picons"><img src="https://img.shields.io/github/last-commit/x1-dotcom/picons?style=flat-square&label=PICONS&color=199BFF"></a>
+</p>
 
 ---
 
@@ -56,6 +91,20 @@ We design for **performance, control, security and scale** — from community pr
   <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/stars/x1-dotcom/X1-Panel-XCIPTV?style=for-the-badge&label=XCIPTV%20STARS&color=199BFF"></a>
   <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/stars/x1-dotcom/x1tivimate?style=for-the-badge&label=TIVIMATE%20STARS&color=11D9FF"></a>
 </p>
+
+---
+
+## 💎 X1 Platform Vision
+
+| Layer | X1 Focus |
+|---|---|
+| **Control** | SaaS, licensing, control panels, administration and commercial workflows. |
+| **Experience** | Android, TV, launchers, themes, apps and remote configuration. |
+| **Automation** | Provisioning, OTA, jobs, agents and operational workflows. |
+| **Intelligence** | AI orchestration, support automation, knowledge and operator assistance. |
+| **Infrastructure** | APIs, nodes, delivery, security, monitoring and deployment. |
+
+> Public repositories show selected parts of the ecosystem. Commercial systems and customer infrastructure remain separated from public code.
 
 ---
 
@@ -91,6 +140,16 @@ X1 ECOSYSTEM
 
 ---
 
+## 🗺️ Roadmap
+
+<p align="center">
+  <img src="./assets/x1-roadmap.svg" width="100%" alt="X1 Roadmap">
+</p>
+
+The direction is simple: evolve from strong standalone tools into a coherent X1 platform without losing compatibility, control or operational transparency.
+
+---
+
 ## 🛠 Technology Stack
 
 <p align="center">
@@ -119,7 +178,19 @@ X1 ECOSYSTEM
 | ⚡ **Performance first** | Fast startup, efficient runtime and minimal unnecessary overhead. |
 | 🤖 **Automation everywhere** | Provisioning, OTA, validation and operational workflows. |
 | 🎯 **One authority per concern** | No duplicated control planes or ambiguous state. |
+| 🧩 **Modular by design** | Components evolve independently while preserving explicit contracts. |
 | 🌍 **Community + commercial** | Public projects coexist with hardened commercial products. |
+
+---
+
+## 📡 Project Activity
+
+<p align="center">
+  <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/issues/x1-dotcom/X1-Stream-Manager-Community?style=flat-square&label=STREAM%20ISSUES&color=11D9FF"></a>
+  <a href="https://github.com/x1-dotcom/X1-Panel-XCIPTV"><img src="https://img.shields.io/github/issues/x1-dotcom/X1-Panel-XCIPTV?style=flat-square&label=XCIPTV%20ISSUES&color=199BFF"></a>
+  <a href="https://github.com/x1-dotcom/x1tivimate"><img src="https://img.shields.io/github/forks/x1-dotcom/x1tivimate?style=flat-square&label=TIVIMATE%20FORKS&color=11D9FF"></a>
+  <a href="https://github.com/x1-dotcom/picons"><img src="https://img.shields.io/github/forks/x1-dotcom/picons?style=flat-square&label=PICONS%20FORKS&color=199BFF"></a>
+</p>
 
 ---
 
