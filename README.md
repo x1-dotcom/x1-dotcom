@@ -1,30 +1,62 @@
 <p align="center">
-  <img src="./assets/x1-profile-banner.svg" alt="X1" width="100%" />
+  <img src="./assets/x1-profile-banner.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://x1panel.space"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-X1-07131B?style=for-the-badge&logo=googlechrome&logoColor=19E8FF"></a>
   <a href="https://forum.x1panel.space"><img alt="Forum" src="https://img.shields.io/badge/FORUM-COMMUNITY-07131B?style=for-the-badge&logo=discourse&logoColor=19E8FF"></a>
+  <a href="https://store.x1panel.space"><img alt="Store" src="https://img.shields.io/badge/STORE-X1-07131B?style=for-the-badge&logo=shopify&logoColor=19E8FF"></a>
   <a href="https://discord.gg/vSSw6jHmw"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-X1-07131B?style=for-the-badge&logo=discord&logoColor=7289DA"></a>
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-X1-07131B?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
 </p>
 
 <p align="center">
-  <strong>PUBLIC SOFTWARE · IPTV TECHNOLOGY · ANDROID / TV · AUTOMATION · INTELLIGENT OPERATIONS</strong>
+  <strong>SOFTWARE · IPTV TECHNOLOGY · ANDROID / TV · AUTOMATION · INTELLIGENT OPERATIONS</strong>
 </p>
 
 ---
 
-## X1 // NOT ONE PANEL
+## X1 // SOFTWARE THAT OPERATES
 
-**X1 is a software and technology ecosystem.** We build independent public projects, commercial products and private operational technology under one identity.
+**X1 is a software and technology ecosystem.** We build practical public software, commercial products and private operational systems under one identity.
 
-What appears here is intentionally the **public surface of X1**. It is not a map of everything that exists internally.
+Our focus is straightforward: **useful software, clear operational control and engineering that solves real problems.**
 
-> ## FREE MEANS FUNCTIONAL.
-> If X1 publishes software publicly, it is intended to be useful as released — not deliberately crippled so that the useful part can be sold back later.
+> ### PUBLIC SOFTWARE SHOULD BE USEFUL AS RELEASED.
+> We do not publish intentionally crippled projects just to sell the missing functionality back later.
 
-Commercial X1 products are separate products. Private engineering remains private.
+Public projects, commercial products and private engineering each have a clear boundary. They share the X1 identity, but they are not one giant application split into paid unlocks.
+
+---
+
+## WHAT X1 BUILDS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/card-android-tv-v2.svg" alt="Android and TV" width="100%" />
+<br><strong>Android / TV Systems</strong><br>
+Application control, device workflows, compatibility tooling and operational interfaces for TV environments.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/card-infrastructure.svg" alt="Infrastructure" width="100%" />
+<br><strong>IPTV & Infrastructure</strong><br>
+Management systems, data pipelines, EPG, picons, routing, deployment tooling and operational infrastructure.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/card-ai-ops.svg" alt="Intelligent Operations" width="100%" />
+<br><strong>Automation & Intelligent Operations</strong><br>
+Operational automation, observability, incident handling and controlled remediation designed around outcomes.
+</td>
+<td width="50%" valign="top">
+<img src="./assets/card-commercial-platform.svg" alt="Commercial Platform" width="100%" />
+<br><strong>Commercial X1 Platform</strong><br>
+Private products and services built for serious operational environments, with proprietary engineering kept protected.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,46 +64,37 @@ Commercial X1 products are separate products. Private engineering remains privat
   <img src="./assets/x1-public-systems-v2.svg" alt="X1 Public Systems" width="100%" />
 </p>
 
-### Open the public systems
+## PUBLIC SYSTEMS
 
-**01 — [X1 Stream Manager Community](https://github.com/x1-dotcom/X1-Stream-Manager-Community)**  
-Stream-management tooling for the community.
+| Project | Purpose |
+|---|---|
+| **[X1 Stream Manager Community](https://github.com/x1-dotcom/X1-Stream-Manager-Community)** | Community stream-management tooling and operational workflows. |
+| **[X1 Panel XCIPTV](https://github.com/x1-dotcom/X1-Panel-XCIPTV)** | X1 control tooling for compatible XCIPTV application workflows. |
+| **[X1 TiviMate Community](https://github.com/x1-dotcom/x1tivimate)** | Public management tooling for TiviMate-related workflows. |
+| **[X1 Smarters V5](https://github.com/x1-dotcom/Smarters-V5)** | Android / TV application tooling and X1 control workflows. |
+| **[X1 EPG](https://github.com/x1-dotcom/x1epg)** | EPG catalogue, validation, ingestion and publication tooling. |
+| **[X1 Picons](https://github.com/x1-dotcom/picons)** | Multi-country picon catalogue and supporting tooling. |
+| **[X1 WAVEO](https://github.com/x1-dotcom/WAVEO)** | Production-oriented WAVEO control plane with device operations, sync, activation, security and compatibility tooling. |
 
-**02 — [X1 Panel XCIPTV](https://github.com/x1-dotcom/X1-Panel-XCIPTV)**  
-Public X1 control tooling for compatible application workflows.
+### Support that leads to fixes
 
-**03 — [X1 TiviMate Community](https://github.com/x1-dotcom/x1tivimate)**  
-Public management tooling for TiviMate-related workflows.
+If something behaves differently in your environment, **open an Issue in the relevant repository** with the app version, Android/device details, affected flow, reproduction steps and sanitized logs.
 
-**04 — [X1 Smarters V5](https://github.com/x1-dotcom/Smarters-V5)**  
-Public Android / TV application tooling.
-
-**05 — [X1 EPG](https://github.com/x1-dotcom/x1epg)**  
-EPG catalogue, validation and ingestion tooling with provenance and publication controls.
-
-**06 — [X1 Picons](https://github.com/x1-dotcom/picons)**  
-Multi-country picon catalogue and tooling.
-
-**07 — [WAVEO](https://github.com/x1-dotcom/WAVEO)**  
-Public repository reserved for a next X1 public system. **Development status — not presented as a released product yet.**
-
-> These are independent projects. They are **not paid modules of one giant application**.
+**We investigate reproducible problems and work on corrections.** Compatibility issues are treated as engineering work to measure, reproduce and resolve — not something to hide behind vague claims.
 
 ---
 
 <p align="center">
-  <img src="./assets/x1-commercial-core-v2.svg" alt="X1 Commercial Core" width="100%" />
+  <img src="./assets/x1-commercial-core-v2.svg" alt="X1 Commercial Platform" width="100%" />
 </p>
 
 ## X1 IPTV PLATFORM
 
-X1 develops its own **IPTV management platform, built from the ground up as an X1 system**.
+X1 develops its own **IPTV management platform as a dedicated X1 system**.
 
-It is a separate commercial product from the public application-control projects above. It is not presented as a re-skin, a public app panel or a collection of paid unlocks.
+It is separate from the public application-control projects above and is designed for **serious operational control, automation and day-to-day management of IPTV environments**.
 
-Its public position is simple: **serious operational control for IPTV environments**.
-
-The implementation that gives the platform its commercial value stays private: internal topology, proprietary automation, security boundaries, private operational methods and other business-critical engineering.
+The parts that create commercial and operational value remain private: production topology, proprietary automation, security boundaries, privileged workflows and business-critical implementation details.
 
 ---
 
@@ -79,57 +102,40 @@ The implementation that gives the platform its commercial value stays private: i
   <img src="./assets/x1-aura-ops-v2.svg" alt="AURA Intelligent Operations" width="100%" />
 </p>
 
-## AURA
+## AURA // INTELLIGENT OPERATIONS
 
-**AURA is X1's intelligent support and operations layer.**
+**AURA is X1's intelligent operations layer.** Its goal is not merely to answer tickets, but to help turn operational signals into controlled outcomes.
 
-The objective is not to build another bot that waits for a ticket and returns text. AURA is designed around operational outcomes: understand context, detect supported incidents, coordinate safe remediation, verify the result and communicate what happened.
+For supported workflows, AURA is designed to understand context, detect incidents, coordinate safe actions, verify results and communicate what happened. Sensitive operations remain governed by permissions, policy and approval controls.
 
-For supported low-risk actions, remediation can be automated. Sensitive operations remain governed by policy, permissions and approval controls.
-
-> **By the time the customer sees the alert, the supported issue may already be resolved.**
-
-AURA is evolving with the next generation of X1. Its internal orchestration, security controls, decision logic and remediation methods are proprietary.
+> **The best support interaction is sometimes the one where the supported problem is already resolved before it becomes a ticket.**
 
 ---
 
-## X1 SAAS
+## PUBLIC FACE // PRIVATE ENGINEERING
 
-The commercial ecosystem is supported by a private X1 SaaS platform.
+Public documentation explains what X1 systems do and how to use the parts we intentionally publish.
 
-Publicly, its role is to coordinate the customer-facing commercial side of X1 products and services, including licensing and product delivery.
+Private engineering remains protected: credentials, signing material, production topology, customer environments, anti-abuse controls, proprietary automation, privileged procedures, unreleased R&D and other business-critical implementation details.
 
-The internal data model, business rules, integrations, contracts, automation and security implementation are private X1 technology.
-
----
-
-<p align="center">
-  <img src="./assets/x1-private-by-design-v2.svg" alt="X1 Private by Design" width="100%" />
-</p>
-
-## THE PUBLIC BOUNDARY
-
-We deliberately do not publish the blueprint of the private platform.
-
-Production topology, privileged procedures, credentials, signing material, private service contracts, proprietary automation/remediation logic, anti-abuse controls, customer environments, unreleased R&D and other business-critical implementation details remain private.
-
-**Public documentation explains capability. It does not disclose the implementation required to reproduce the commercial platform.**
+**Transparency about capability does not require publishing the blueprint of the private platform.**
 
 ---
 
-## X1 // ENGINEERING CODE
+## X1 // ENGINEERING PRINCIPLES
 
 `FUNCTIONAL > FREEMIUM THEATRE`  
 `SECURITY > CONVENIENCE SHORTCUTS`  
 `CLEAR RESPONSIBILITY > DUPLICATED AUTHORITY`  
 `AUTOMATION + CONTROL`  
 `FAST OPERATIONAL UX`  
+`MEASURE → REPRODUCE → FIX`  
 `AUDITABILITY`  
 `PUBLIC COMMUNITY WORK + PRIVATE COMMERCIAL ENGINEERING`
 
 ---
 
-## COMMUNITY // X1
+## COMMUNITY // SUPPORT // DEVELOPMENT
 
 <p align="center">
   <a href="https://forum.x1panel.space"><img src="https://img.shields.io/badge/FORUM-X1_COMMUNITY-07131B?style=for-the-badge&logo=discourse&logoColor=19E8FF"></a>
@@ -137,14 +143,14 @@ Production topology, privileged procedures, credentials, signing material, priva
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img src="https://img.shields.io/badge/TELEGRAM-X1-07131B?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
 </p>
 
+<p align="center">
+  Found a reproducible problem? Report it in the relevant repository.<br>
+  <strong>We review it, reproduce it and work on the fix.</strong>
+</p>
+
 ---
 
 <p align="center">
-  <strong>FREE MEANS FUNCTIONAL.</strong><br>
-  <strong>PRIVATE MEANS PROTECTED.</strong><br><br>
-  <strong>ONE X1 IDENTITY.</strong>
-</p>
-
-<p align="center">
+  <strong>PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.</strong><br><br>
   © 2026 X1Tech Solutions SA. All Rights Reserved.
 </p>
