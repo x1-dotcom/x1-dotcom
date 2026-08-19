@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-label="X1 public software suite">
+  <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#03080D"/><stop offset="1" stop-color="#08141D"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#1AF1FF"/><stop offset="1" stop-color="#3974FF"/></linearGradient></defs>
+  <rect width="1600" height="560" rx="26" fill="url(#b)"/>
+  <text x="70" y="76" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#72DDEC" letter-spacing="5">X1 / PUBLIC SOFTWARE</text>
+  <text x="70" y="125" font-family="Arial Black,Arial,sans-serif" font-size="42" fill="#fff">NOT ONE PANEL. A GROWING TOOLSET.</text>
+  <text x="70" y="163" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#A6C8D1">Independent projects. Free public releases. No artificial paid unlocks.</text>
+  <path d="M70 194H1530" stroke="#163847"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(70 230)"><path d="M0 0H430L400 160H0Z" fill="#071922" stroke="#17E8FF" stroke-width="2"/><text x="28" y="42" fill="#62E7F7" font-size="14" letter-spacing="3">CONTROL</text><text x="28" y="82" fill="#fff" font-size="29" font-weight="700">Stream Manager</text><text x="28" y="116" fill="#B4CCD3" font-size="18">Community stream workflows</text><text x="28" y="145" fill="#19E8FF" font-size="14">PUBLIC • FREE</text></g>
+    <g transform="translate(500 230)"><path d="M0 0H430L400 160H0Z" fill="#08131E" stroke="#3974FF" stroke-width="2"/><text x="28" y="42" fill="#89A3FF" font-size="14" letter-spacing="3">APPLICATION CONTROL</text><text x="28" y="82" fill="#fff" font-size="29" font-weight="700">XCIPTV / TiviMate</text><text x="28" y="116" fill="#B4CCD3" font-size="18">Panel and management projects</text><text x="28" y="145" fill="#89A3FF" font-size="14">PUBLIC • FREE</text></g>
+    <g transform="translate(930 230)"><path d="M0 0H430L400 160H0Z" fill="#071922" stroke="#17E8FF" stroke-width="2"/><text x="28" y="42" fill="#62E7F7" font-size="14" letter-spacing="3">DATA</text><text x="28" y="82" fill="#fff" font-size="29" font-weight="700">EPG / Picons</text><text x="28" y="116" fill="#B4CCD3" font-size="18">Catalogues, validation and tooling</text><text x="28" y="145" fill="#19E8FF" font-size="14">PUBLIC • FREE</text></g>
+  </g>
+  <g transform="translate(70 430)"><rect width="1460" height="72" rx="12" fill="#06131A" stroke="url(#a)" stroke-width="2"/><text x="730" y="30" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#67DCEC" letter-spacing="5">X1 RULE</text><text x="730" y="55" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="22" fill="#fff">IF WE RELEASE IT PUBLICLY, IT IS MEANT TO WORK AS RELEASED.</text></g>
+</svg>
