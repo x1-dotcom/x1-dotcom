@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/x1-profile-banner.jpg" alt="X1 — Next Generation Digital Platform" width="100%" />
+  <img src="./assets/x1-profile-banner.svg" alt="X1 — Next Generation Digital Platform" width="100%" />
 </p>
 
 <h1 align="center">X1</h1>
