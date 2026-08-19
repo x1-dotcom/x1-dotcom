@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="X1 roadmap">
+  <rect width="1200" height="300" rx="28" fill="#03090d" stroke="#11d9ff"/>
+  <text x="60" y="58" font-family="Arial Black,Arial,sans-serif" font-size="34" fill="#fff">X1 ROADMAP</text>
+  <text x="60" y="90" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#75dce9">EVOLVE THE ECOSYSTEM WITHOUT BREAKING THE CORE</text>
+  <line x1="120" y1="180" x2="1080" y2="180" stroke="#123846" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <g transform="translate(160 0)"><circle cx="0" cy="180" r="25" fill="#11d9ff"/><text x="0" y="188" font-size="17" font-weight="700" fill="#021015">01</text><text x="0" y="232" font-size="20" fill="#fff">COMMUNITY</text><text x="0" y="257" font-size="15" fill="#8fb4bf">Open tools</text></g>
+    <g transform="translate(385 0)"><circle cx="0" cy="180" r="25" fill="#11d9ff"/><text x="0" y="188" font-size="17" font-weight="700" fill="#021015">02</text><text x="0" y="232" font-size="20" fill="#fff">CONTROL</text><text x="0" y="257" font-size="15" fill="#8fb4bf">Panels · SaaS</text></g>
+    <g transform="translate(610 0)"><circle cx="0" cy="180" r="25" fill="#199bff"/><text x="0" y="188" font-size="17" font-weight="700" fill="#021015">03</text><text x="0" y="232" font-size="20" fill="#fff">AUTOMATION</text><text x="0" y="257" font-size="15" fill="#8fb4bf">Provisioning · OTA</text></g>
+    <g transform="translate(835 0)"><circle cx="0" cy="180" r="25" fill="#199bff"/><text x="0" y="188" font-size="17" font-weight="700" fill="#021015">04</text><text x="0" y="232" font-size="20" fill="#fff">INTELLIGENCE</text><text x="0" y="257" font-size="15" fill="#8fb4bf">AI · Operations</text></g>
+    <g transform="translate(1060 0)"><circle cx="0" cy="180" r="25" fill="#28f59b"/><text x="0" y="188" font-size="17" font-weight="700" fill="#021015">05</text><text x="0" y="232" font-size="20" fill="#fff">SCALE</text><text x="0" y="257" font-size="15" fill="#8fb4bf">Global platform</text></g>
+  </g>
+</svg>
