@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="X1 commercial core">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#04080B"/><stop offset="1" stop-color="#091219"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#18F1FF"/><stop offset="1" stop-color="#506CFF"/></linearGradient></defs>
+<rect width="1600" height="500" rx="30" fill="url(#bg)"/>
+<path d="M0 92h350l34-34h420l34 34h762" fill="none" stroke="#1B3440" stroke-width="2"/>
+<text x="70" y="70" fill="#78919B" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="7">X1 // COMMERCIAL CORE</text>
+<text x="70" y="138" fill="#F5FAFD" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="900">X1 IPTV PLATFORM</text>
+<text x="70" y="184" fill="#19E8FF" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="4">BUILT FROM THE GROUND UP AS X1.</text>
+<g transform="translate(70 250)" font-family="Arial,Helvetica,sans-serif">
+  <rect x="0" y="0" width="300" height="92" rx="18" fill="#08171E" stroke="#1A4452"/><text x="28" y="38" fill="#7F98A2" font-size="15" letter-spacing="3">PRODUCT</text><text x="28" y="68" fill="#F5FAFD" font-size="22" font-weight="800">COMMERCIAL</text>
+  <rect x="330" y="0" width="300" height="92" rx="18" fill="#08171E" stroke="#1A4452"/><text x="358" y="38" fill="#7F98A2" font-size="15" letter-spacing="3">ORIGIN</text><text x="358" y="68" fill="#F5FAFD" font-size="22" font-weight="800">X1 NATIVE</text>
+  <rect x="660" y="0" width="300" height="92" rx="18" fill="#08171E" stroke="#1A4452"/><text x="688" y="38" fill="#7F98A2" font-size="15" letter-spacing="3">POSITION</text><text x="688" y="68" fill="#F5FAFD" font-size="22" font-weight="800">IPTV OPERATIONS</text>
+  <rect x="990" y="0" width="470" height="92" rx="18" fill="#0A1217" stroke="#33454D"/><text x="1018" y="38" fill="#7F98A2" font-size="15" letter-spacing="3">PUBLIC BOUNDARY</text><text x="1018" y="68" fill="#D7E1E5" font-size="22" font-weight="800">INTERNALS NOT DISCLOSED</text>
+</g>
+<rect x="70" y="395" width="1460" height="2" fill="url(#line)" opacity=".6"/>
+<text x="70" y="442" fill="#F5FAFD" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">NOT A RESKIN. NOT A PUBLIC APP PANEL. A SEPARATE X1 PRODUCT.</text>
+<text x="70" y="472" fill="#70858E" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">PRIVATE TOPOLOGY // PRIVATE AUTOMATION // PRIVATE SECURITY IMPLEMENTATION</text>
+</svg>
