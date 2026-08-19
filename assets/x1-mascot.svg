@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="680" viewBox="0 0 680 680" role="img" aria-label="X1 cyber mascot">
+  <defs>
+    <radialGradient id="face" cx="50%" cy="42%"><stop offset="0" stop-color="#102934"/><stop offset="1" stop-color="#02070b"/></radialGradient>
+    <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#12f7ff"/><stop offset="1" stop-color="#168dff"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="680" height="680" rx="76" fill="#02070b"/>
+  <circle cx="340" cy="340" r="244" fill="url(#face)" stroke="#11d9ff" stroke-width="10" filter="url(#g)"/>
+  <circle cx="340" cy="340" r="219" fill="none" stroke="#168dff" stroke-width="3" opacity=".7"/>
+  <g stroke="#10dfff" stroke-width="4" fill="none" opacity=".75">
+    <path d="M170 230h80l35 35h45M510 230h-80l-35 35h-45M180 450h70l44-44h35M500 450h-70l-44-44h-35"/>
+    <circle cx="250" cy="230" r="6" fill="#11d9ff"/><circle cx="430" cy="230" r="6" fill="#11d9ff"/>
+  </g>
+  <ellipse cx="270" cy="294" rx="46" ry="58" fill="#eafcff"/>
+  <ellipse cx="410" cy="294" rx="46" ry="58" fill="#eafcff"/>
+  <circle cx="278" cy="305" r="26" fill="#06233a" stroke="#11d9ff" stroke-width="8"/>
+  <circle cx="402" cy="305" r="26" fill="#06233a" stroke="#11d9ff" stroke-width="8"/>
+  <circle cx="287" cy="295" r="8" fill="#fff"/><circle cx="411" cy="295" r="8" fill="#fff"/>
+  <path d="M254 240q22-28 56-4M370 236q34-24 56 4" stroke="#11d9ff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M258 448q82 66 164 0" fill="#081018" stroke="#eafcff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M290 461q50 28 100 0" stroke="#ff4d78" stroke-width="18" stroke-linecap="round"/>
+  <g filter="url(#g)">
+    <text x="340" y="405" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="138" font-weight="900" fill="url(#cyan)" stroke="#061523" stroke-width="8">X1</text>
+  </g>
+  <g transform="translate(110 476)">
+    <path d="M80 0c-58 12-84 62-58 101 19 29 59 31 98 5l55-38-41-65z" fill="#0c2230" stroke="#11d9ff" stroke-width="8"/>
+    <path d="M370 3l-41 65 55 38c39 26 79 24 98-5 26-39 0-89-58-101z" fill="#0c2230" stroke="#11d9ff" stroke-width="8"/>
+    <path d="M65 56l45-38M390 18l45 38" stroke="#eafcff" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <text x="340" y="628" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="28" fill="#dff9ff" letter-spacing="7">X1 CYBER CREW</text>
+</svg>
