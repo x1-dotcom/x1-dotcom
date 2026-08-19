@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="180"><rect width="1500" height="180" rx="24" fill="#061018" stroke="#11D9FF" stroke-width="2"/><text x="48" y="52" fill="#11D9FF" font-size="24" font-family="Arial" font-weight="700">X1 RELEASE & PLATFORM STATUS</text><g font-family="Arial" font-size="18"><rect x="48" y="82" width="250" height="54" rx="12" fill="#0D1921" stroke="#11D9FF"/><text x="72" y="116" fill="#ffffff">COMMUNITY · PUBLIC</text><rect x="322" y="82" width="250" height="54" rx="12" fill="#0D1921" stroke="#199BFF"/><text x="349" y="116" fill="#ffffff">COMMERCIAL · PRIVATE</text><rect x="596" y="82" width="250" height="54" rx="12" fill="#0D1921" stroke="#11D9FF"/><text x="628" y="116" fill="#ffffff">ANDROID · ACTIVE</text><rect x="870" y="82" width="250" height="54" rx="12" fill="#0D1921" stroke="#199BFF"/><text x="900" y="116" fill="#ffffff">AI OPS · EVOLVING</text><rect x="1144" y="82" width="308" height="54" rx="12" fill="#0D1921" stroke="#11D9FF"/><text x="1180" y="116" fill="#ffffff">INFRASTRUCTURE · CORE</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="X1 Release and Platform Status">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#03090d"/><stop offset="1" stop-color="#0a1820"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="260" rx="28" fill="url(#bg)" stroke="#11d9ff"/>
+  <text x="54" y="58" font-family="Arial Black,Arial,sans-serif" font-size="32" fill="#ffffff">X1 RELEASE &amp; PLATFORM STATUS</text>
+  <text x="54" y="90" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#75dce9">CURRENT ECOSYSTEM DELIVERY SNAPSHOT</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(54 124)"><rect width="250" height="82" rx="16" fill="#08131a" stroke="#11d9ff"/><circle cx="28" cy="28" r="7" fill="#28f59b" filter="url(#g)"/><text x="46" y="34" font-size="17" fill="#dff9ff">COMMUNITY</text><text x="24" y="64" font-size="20" font-weight="700" fill="#11d9ff">PUBLIC</text></g>
+    <g transform="translate(330 124)"><rect width="250" height="82" rx="16" fill="#08131a" stroke="#199bff"/><circle cx="28" cy="28" r="7" fill="#ffbd2e"/><text x="46" y="34" font-size="17" fill="#dff9ff">COMMERCIAL</text><text x="24" y="64" font-size="20" font-weight="700" fill="#199bff">PRIVATE</text></g>
+    <g transform="translate(606 124)"><rect width="250" height="82" rx="16" fill="#08131a" stroke="#11d9ff"/><circle cx="28" cy="28" r="7" fill="#28f59b"/><text x="46" y="34" font-size="17" fill="#dff9ff">ANDROID</text><text x="24" y="64" font-size="20" font-weight="700" fill="#11d9ff">ACTIVE</text></g>
+    <g transform="translate(882 124)"><rect width="264" height="82" rx="16" fill="#08131a" stroke="#199bff"/><circle cx="28" cy="28" r="7" fill="#58a6ff"/><text x="46" y="34" font-size="17" fill="#dff9ff">AI OPS</text><text x="24" y="64" font-size="20" font-weight="700" fill="#199bff">EVOLVING</text></g>
+  </g>
+  <text x="600" y="238" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#6ca8b5" letter-spacing="4">BUILD · CONTROL · RELEASE · SCALE</text>
+</svg>
