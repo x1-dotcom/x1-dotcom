@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="X1 private by design">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#05070A"/><stop offset="1" stop-color="#0A1116"/></linearGradient></defs>
+<rect width="1600" height="500" rx="30" fill="url(#bg)"/>
+<text x="70" y="72" fill="#7E929A" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="7">X1 // PRIVATE BY DESIGN</text>
+<text x="70" y="136" fill="#F4F8FA" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="900">PUBLIC SHOWS WHAT. PRIVATE PROTECTS HOW.</text>
+<g font-family="Arial,Helvetica,sans-serif" transform="translate(70 210)">
+<g><rect width="290" height="100" rx="18" fill="#0A151B" stroke="#273740"/><text x="28" y="40" fill="#7C919A" font-size="15" letter-spacing="3">01</text><text x="28" y="72" fill="#EFF6F8" font-size="22" font-weight="800">INFRASTRUCTURE</text></g>
+<g transform="translate(315)"><rect width="290" height="100" rx="18" fill="#0A151B" stroke="#273740"/><text x="28" y="40" fill="#7C919A" font-size="15" letter-spacing="3">02</text><text x="28" y="72" fill="#EFF6F8" font-size="22" font-weight="800">SECURITY</text></g>
+<g transform="translate(630)"><rect width="290" height="100" rx="18" fill="#0A151B" stroke="#273740"/><text x="28" y="40" fill="#7C919A" font-size="15" letter-spacing="3">03</text><text x="28" y="72" fill="#EFF6F8" font-size="22" font-weight="800">AUTOMATION</text></g>
+<g transform="translate(945)"><rect width="290" height="100" rx="18" fill="#0A151B" stroke="#273740"/><text x="28" y="40" fill="#7C919A" font-size="15" letter-spacing="3">04</text><text x="28" y="72" fill="#EFF6F8" font-size="22" font-weight="800">CUSTOMER SYSTEMS</text></g>
+<g transform="translate(1260)"><rect width="270" height="100" rx="18" fill="#0A151B" stroke="#273740"/><text x="28" y="40" fill="#7C919A" font-size="15" letter-spacing="3">05</text><text x="28" y="72" fill="#EFF6F8" font-size="22" font-weight="800">R&amp;D</text></g>
+</g>
+<line x1="70" y1="365" x2="1530" y2="365" stroke="#243640"/>
+<text x="70" y="414" fill="#EAF2F5" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">WE EXPLAIN CAPABILITY WITHOUT PUBLISHING THE BLUEPRINT NEEDED TO REPRODUCE THE PRIVATE PLATFORM.</text>
+<text x="70" y="455" fill="#758A93" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">CUSTOMER PROTECTION // IP PROTECTION // OPERATIONAL SECURITY</text>
+</svg>
