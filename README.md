@@ -102,7 +102,7 @@ We design for **performance, control, security and scale** — from public commu
 </p>
 
 <p align="center">
-  <img src="./assets/card-android-tv.svg" width="49%" alt="X1 Android and TV">
+  <img src="./assets/card-android-tv-v2.svg" width="49%" alt="X1 Android and TV">
   <img src="./assets/card-infrastructure.svg" width="49%" alt="X1 Infrastructure">
 </p>
 
@@ -113,7 +113,7 @@ We design for **performance, control, security and scale** — from public commu
 ## 📡 Release & Platform Status
 
 <p align="center">
-  <img src="./assets/x1-release-status.svg" width="100%" alt="X1 Release and Platform Status">
+  <img src="./assets/x1-release-status-v2.svg" width="100%" alt="X1 Release and Platform Status">
 </p>
 
 <p align="center">
