@@ -18,9 +18,9 @@
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/x1-dotcom?style=flat-square&logo=github&label=FOLLOWERS&color=11D9FF">
-  <img alt="Profile repository" src="https://img.shields.io/badge/PROFILE-X1-111827?style=flat-square&logo=github&logoColor=11D9FF">
   <img alt="Security" src="https://img.shields.io/badge/SECURE-BY_DESIGN-111827?style=flat-square&logo=shield&logoColor=11D9FF">
   <img alt="Automation" src="https://img.shields.io/badge/AUTOMATION-FIRST-111827?style=flat-square&logo=githubactions&logoColor=11D9FF">
+  <img alt="Identity" src="https://img.shields.io/badge/ONE_IDENTITY-X1-111827?style=flat-square&logo=github&logoColor=11D9FF">
 </p>
 
 ---
@@ -31,9 +31,9 @@
 
 ## ⚡ Welcome to X1
 
-**X1** is a technology ecosystem focused on building powerful control platforms, Android experiences, automation systems and infrastructure tooling.
+**X1** is a technology ecosystem focused on powerful control platforms, Android experiences, automation systems and infrastructure tooling.
 
-We design for **performance, control, security and scale** — from community projects to commercial-grade platforms.
+We design for **performance, control, security and scale** — from public community tools to commercial-grade systems.
 
 ### Core idea
 
@@ -48,7 +48,7 @@ We design for **performance, control, security and scale** — from community pr
 
 </td>
 <td width="34%" align="center" valign="middle">
-  <img src="./assets/x1-mascot.svg" width="100%" alt="X1 Cyber Crew mascot">
+  <img src="./assets/x1-mascot.svg" width="100%" alt="X1 Cyber mascot">
 </td>
 </tr>
 </table>
@@ -70,7 +70,7 @@ We design for **performance, control, security and scale** — from community pr
 
 ---
 
-## 🚀 Featured X1 Projects
+## 🚀 Featured Public Projects
 
 <p align="center">
   <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="./assets/card-stream-manager.svg" width="49%" alt="X1 Stream Manager Community"></a>
@@ -94,17 +94,34 @@ We design for **performance, control, security and scale** — from community pr
 
 ---
 
-## 💎 X1 Platform Vision
+## 💎 Commercial & Core Platform
 
-| Layer | X1 Focus |
-|---|---|
-| **Control** | SaaS, licensing, control panels, administration and commercial workflows. |
-| **Experience** | Android, TV, launchers, themes, apps and remote configuration. |
-| **Automation** | Provisioning, OTA, jobs, agents and operational workflows. |
-| **Intelligence** | AI orchestration, support automation, knowledge and operator assistance. |
-| **Infrastructure** | APIs, nodes, delivery, security, monitoring and deployment. |
+<p align="center">
+  <img src="./assets/card-commercial-platform.svg" width="49%" alt="X1 Commercial Platform">
+  <img src="./assets/card-ai-ops.svg" width="49%" alt="X1 AI Customer Ops">
+</p>
 
-> Public repositories show selected parts of the ecosystem. Commercial systems and customer infrastructure remain separated from public code.
+<p align="center">
+  <img src="./assets/card-android-tv.svg" width="49%" alt="X1 Android and TV">
+  <img src="./assets/card-infrastructure.svg" width="49%" alt="X1 Infrastructure">
+</p>
+
+> These cards describe the public architecture direction of the X1 ecosystem. Private repositories, customer infrastructure, secrets and commercial implementation details remain private.
+
+---
+
+## 📡 Release & Platform Status
+
+<p align="center">
+  <img src="./assets/x1-release-status.svg" width="100%" alt="X1 Release and Platform Status">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMMUNITY-PUBLIC-111827?style=for-the-badge&logo=github&logoColor=11D9FF">
+  <img src="https://img.shields.io/badge/COMMERCIAL-PRIVATE-111827?style=for-the-badge&logo=shield&logoColor=199BFF">
+  <img src="https://img.shields.io/badge/ANDROID-ACTIVE-111827?style=for-the-badge&logo=android&logoColor=11D9FF">
+  <img src="https://img.shields.io/badge/AI_OPS-EVOLVING-111827?style=for-the-badge&logo=openai&logoColor=199BFF">
+</p>
 
 ---
 
@@ -114,29 +131,47 @@ We design for **performance, control, security and scale** — from community pr
 X1 ECOSYSTEM
 ├── CONTROL
 │   ├── SaaS
+│   ├── Licensing & Entitlements
 │   ├── Control Panels
-│   ├── Device Management
-│   └── Licensing
+│   └── Commercial Workflows
 ├── EXPERIENCE
 │   ├── Android / TV
-│   ├── Launchers
-│   ├── Themes
+│   ├── Launchers & Themes
+│   ├── Devices
 │   └── Remote Configuration
+├── INTELLIGENCE
+│   ├── AI Customer Ops
+│   ├── RAG
+│   ├── Workflows
+│   └── Operator Assistance
 ├── AUTOMATION
-│   ├── AI Operations
 │   ├── Provisioning
 │   ├── OTA
+│   ├── Jobs
 │   └── Monitoring
 └── INFRASTRUCTURE
-    ├── APIs
+    ├── APIs & Contracts
     ├── Multi-tenant Services
+    ├── Runtime / Nodes
     ├── Security
-    └── Deployment
+    └── Observability
 ```
 
 <p align="center">
-  <strong>CONTROL PLANE</strong> · <strong>DEVICE EXPERIENCE</strong> · <strong>AUTOMATION</strong> · <strong>SECURITY</strong> · <strong>OBSERVABILITY</strong>
+  <strong>CONTROL PLANE</strong> · <strong>DEVICE EXPERIENCE</strong> · <strong>AI OPS</strong> · <strong>AUTOMATION</strong> · <strong>SECURITY</strong> · <strong>OBSERVABILITY</strong>
 </p>
+
+---
+
+## 💠 Platform Vision
+
+| Layer | X1 Focus |
+|---|---|
+| **Commercial Authority** | Customers, billing, payments, subscriptions, licensing, entitlements and product catalog. |
+| **Operational Control** | Runtime configuration, delivery, nodes, streams, providers and operational state. |
+| **Experience** | Android, TV, launcher, themes, apps and remote configuration. |
+| **Intelligence** | AI orchestration, RAG, workflows, support automation and operator UX. |
+| **Infrastructure** | APIs, secure contracts, deployment, observability, backups and release supply chain. |
 
 ---
 
@@ -146,7 +181,7 @@ X1 ECOSYSTEM
   <img src="./assets/x1-roadmap.svg" width="100%" alt="X1 Roadmap">
 </p>
 
-The direction is simple: evolve from strong standalone tools into a coherent X1 platform without losing compatibility, control or operational transparency.
+The direction is simple: evolve strong standalone systems into one coherent X1 platform without sacrificing compatibility, control or operational transparency.
 
 ---
 
@@ -183,7 +218,7 @@ The direction is simple: evolve from strong standalone tools into a coherent X1 
 
 ---
 
-## 📡 Project Activity
+## 📈 Public Project Activity
 
 <p align="center">
   <a href="https://github.com/x1-dotcom/X1-Stream-Manager-Community"><img src="https://img.shields.io/github/issues/x1-dotcom/X1-Stream-Manager-Community?style=flat-square&label=STREAM%20ISSUES&color=11D9FF"></a>
@@ -208,7 +243,7 @@ The direction is simple: evolve from strong standalone tools into a coherent X1 
 
 <p align="center">
   Build tools that are <strong>fast</strong>, <strong>controllable</strong>, <strong>secure</strong> and <strong>scalable</strong>.<br>
-  Connect the entire X1 ecosystem under one technical and visual identity.
+  Connect the X1 ecosystem under one technical and visual identity.
 </p>
 
 <p align="center">
