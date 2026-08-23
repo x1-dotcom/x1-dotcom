@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-profile-banner-v2.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-profile-banner-v3.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
 </p>
 
 <p align="center">
