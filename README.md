@@ -1,57 +1,57 @@
 <p align="center">
-  <img src="./assets/x1-profile-banner.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://x1panel.space"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-X1-07131B?style=for-the-badge&logo=googlechrome&logoColor=19E8FF"></a>
-  <a href="https://forum.x1panel.space"><img alt="Forum" src="https://img.shields.io/badge/FORUM-COMMUNITY-07131B?style=for-the-badge&logo=discourse&logoColor=19E8FF"></a>
-  <a href="https://store.x1panel.space"><img alt="Store" src="https://img.shields.io/badge/STORE-X1-07131B?style=for-the-badge&logo=shopify&logoColor=19E8FF"></a>
-  <a href="https://discord.gg/vSSw6jHmw"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-X1-07131B?style=for-the-badge&logo=discord&logoColor=7289DA"></a>
-  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-X1-07131B?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
+  <img src="./assets/x1-profile-banner-v2.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
 </p>
 
 <p align="center">
   <strong>SOFTWARE · IPTV TECHNOLOGY · ANDROID / TV · AUTOMATION · INTELLIGENT OPERATIONS</strong>
 </p>
 
+<p align="center">
+  <a href="https://x1panel.space"><strong>WEBSITE</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://forum.x1panel.space"><strong>FORUM</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://store.x1panel.space"><strong>STORE</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><strong>TELEGRAM</strong></a>
+</p>
+
 ---
 
 ## X1 // SOFTWARE THAT OPERATES
 
-**X1 is a software and technology ecosystem** focused on practical software, operational control and engineering that solves real problems.
+**X1 is a software and technology ecosystem built around practical control, operational clarity and engineering that solves real problems.**
 
 > ### PUBLIC SOFTWARE SHOULD BE USEFUL AS RELEASED.
-> We do not publish intentionally crippled projects just to sell the missing functionality back later.
+> We do not publish intentionally crippled projects simply to sell the missing functionality back later.
 
 Public software, commercial products and private engineering have clear boundaries — under **one X1 identity**.
-
----
-
-## WHAT X1 BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/card-android-tv-v2.svg" alt="Android and TV" width="100%" />
+<img src="./assets/card-android-tv-v2.svg" alt="Android and TV systems" width="100%" />
 <br><strong>Android / TV Systems</strong><br>
 Application control, device workflows, compatibility tooling and operational interfaces.
 </td>
 <td width="50%" valign="top">
-<img src="./assets/card-infrastructure.svg" alt="Infrastructure" width="100%" />
+<img src="./assets/card-infrastructure.svg" alt="IPTV and infrastructure" width="100%" />
 <br><strong>IPTV & Infrastructure</strong><br>
 Management systems, data pipelines, EPG, picons, routing and deployment tooling.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/card-ai-ops.svg" alt="Intelligent Operations" width="100%" />
+<img src="./assets/card-ai-ops.svg" alt="Automation and intelligent operations" width="100%" />
 <br><strong>Automation & Intelligent Operations</strong><br>
 Observability, incident handling and controlled remediation built around outcomes.
 </td>
 <td width="50%" valign="top">
-<img src="./assets/card-commercial-platform.svg" alt="Commercial Platform" width="100%" />
+<img src="./assets/card-commercial-platform.svg" alt="Commercial X1 platform" width="100%" />
 <br><strong>Commercial X1 Platform</strong><br>
-Private products and services for serious operational environments.
+Protected products and services for serious operational environments.
 </td>
 </tr>
 </table>
@@ -88,11 +88,11 @@ Private products and services for serious operational environments.
 <tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/x1-dotcom/x1epg">X1 EPG</a></strong><br>
-<sub>EPG catalogue, validation, ingestion and publication.</sub>
+<sub>EPG catalogue, validation, ingestion and publication tooling.</sub>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/x1-dotcom/picons">X1 Picons</a></strong><br>
-<sub>Multi-country picon catalogue and supporting tooling.</sub>
+<sub>Multi-country visual-signal catalogue and supporting tooling.</sub>
 </td>
 </tr>
 <tr>
@@ -177,16 +177,29 @@ Anti-abuse controls and unreleased R&D
 `FAST OPERATIONAL UX`  
 `MEASURE → REPRODUCE → FIX`  
 `AUDITABILITY`  
-`PUBLIC COMMUNITY WORK + PRIVATE COMMERCIAL ENGINEERING`
+`EVIDENCE > ASSUMPTION`
+
+---
+
+## X1 // GITHUB VISUAL AUTHORITY
+
+The public X1 GitHub presentation follows one visual system across product repositories while preserving each product's own technical identity.
+
+- [README Visual DNA](./design/github/README-DNA.md)
+- [Hero Specification](./design/github/HERO-SPEC.md)
+- [Color System](./design/github/COLORS.md)
+- [Visual Components](./design/github/COMPONENTS.md)
 
 ---
 
 ## COMMUNITY // SUPPORT // DEVELOPMENT
 
 <p align="center">
-  <a href="https://forum.x1panel.space"><img src="https://img.shields.io/badge/FORUM-X1_COMMUNITY-07131B?style=for-the-badge&logo=discourse&logoColor=19E8FF"></a>
-  <a href="https://discord.gg/vSSw6jHmw"><img src="https://img.shields.io/badge/DISCORD-JOIN_X1-07131B?style=for-the-badge&logo=discord&logoColor=7289DA"></a>
-  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><img src="https://img.shields.io/badge/TELEGRAM-X1-07131B?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
+  <a href="https://forum.x1panel.space"><strong>FORUM</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><strong>TELEGRAM</strong></a>
 </p>
 
 <p align="center">
@@ -197,6 +210,12 @@ Anti-abuse controls and unreleased R&D
 ---
 
 <p align="center">
-  <strong>PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.</strong><br><br>
-  © 2026 X1Tech Solutions SA. All Rights Reserved.
+  <strong>X1 // SOFTWARE · SYSTEMS · OPERATIONS</strong><br><br>
+  PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.<br><br>
+  <a href="https://x1panel.space">Website</a> ·
+  <a href="https://forum.x1panel.space">Forum</a> ·
+  <a href="https://store.x1panel.space">Store</a> ·
+  <a href="https://discord.gg/vSSw6jHmw">Discord</a> ·
+  <a href="https://t.me/+XkuQS_QuD6g4Nzc0">Telegram</a><br><br>
+  <strong>© X1Tech Solutions SA · All Rights Reserved</strong>
 </p>
