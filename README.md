@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/x1-profile-banner-v2.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-profile-banner-v2.svg" alt="X1 — Public Software. Private Engineering. One X1 Identity." width="100%" />
 </p>
 
 <p align="center">
@@ -30,13 +30,13 @@
 Public software, commercial products and private engineering have clear boundaries — under **one X1 identity**.
 
 <p align="center">
-  <img src="./assets/x1-ecosystem-command-deck.svg" alt="X1 ecosystem command deck" width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-ecosystem-command-deck.svg" alt="X1 ecosystem command deck" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./assets/x1-public-systems-v2.svg" alt="X1 Public Systems" width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-public-systems-v2.svg" alt="X1 Public Systems" width="100%" />
 </p>
 
 ## PUBLIC SYSTEMS
@@ -86,7 +86,7 @@ Public software, commercial products and private engineering have clear boundari
 ---
 
 <p align="center">
-  <img src="./assets/x1-commercial-core-v2.svg" alt="X1 Commercial Platform" width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-commercial-core-v2.svg" alt="X1 Commercial Platform" width="100%" />
 </p>
 
 ## X1 IPTV PLATFORM
@@ -105,7 +105,7 @@ The platform is built to operate — not presented as a re-skin, public app pane
 ---
 
 <p align="center">
-  <img src="./assets/x1-aura-ops-v2.svg" alt="AURA Intelligent Operations" width="100%" />
+  <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-aura-ops-v2.svg" alt="AURA Intelligent Operations" width="100%" />
 </p>
 
 ## AURA // INTELLIGENT OPERATIONS
@@ -162,10 +162,10 @@ Anti-abuse controls and unreleased R&D
 
 The public X1 GitHub presentation follows one visual system across product repositories while preserving each product's own technical identity.
 
-- [README Visual DNA](./design/github/README-DNA.md)
-- [Hero Specification](./design/github/HERO-SPEC.md)
-- [Color System](./design/github/COLORS.md)
-- [Visual Components](./design/github/COMPONENTS.md)
+- [README Visual DNA](https://github.com/x1-dotcom/x1-dotcom/blob/main/design/github/README-DNA.md)
+- [Hero Specification](https://github.com/x1-dotcom/x1-dotcom/blob/main/design/github/HERO-SPEC.md)
+- [Color System](https://github.com/x1-dotcom/x1-dotcom/blob/main/design/github/COLORS.md)
+- [Visual Components](https://github.com/x1-dotcom/x1-dotcom/blob/main/design/github/COMPONENTS.md)
 
 ---
 
