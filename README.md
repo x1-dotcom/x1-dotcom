@@ -29,32 +29,9 @@
 
 Public software, commercial products and private engineering have clear boundaries — under **one X1 identity**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/card-android-tv-v2.svg" alt="Android and TV systems" width="100%" />
-<br><strong>Android / TV Systems</strong><br>
-Application control, device workflows, compatibility tooling and operational interfaces.
-</td>
-<td width="50%" valign="top">
-<img src="./assets/card-infrastructure.svg" alt="IPTV and infrastructure" width="100%" />
-<br><strong>IPTV & Infrastructure</strong><br>
-Management systems, data pipelines, EPG, picons, routing and deployment tooling.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/card-ai-ops.svg" alt="Automation and intelligent operations" width="100%" />
-<br><strong>Automation & Intelligent Operations</strong><br>
-Observability, incident handling and controlled remediation built around outcomes.
-</td>
-<td width="50%" valign="top">
-<img src="./assets/card-commercial-platform.svg" alt="Commercial X1 platform" width="100%" />
-<br><strong>Commercial X1 Platform</strong><br>
-Protected products and services for serious operational environments.
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/x1-ecosystem-command-deck.svg" alt="X1 ecosystem command deck" width="100%" />
+</p>
 
 ---
 
