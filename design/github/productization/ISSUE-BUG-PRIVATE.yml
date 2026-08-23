@@ -1,0 +1,80 @@
+name: Private bug report
+description: Report reproducible incorrect behavior in a private X1 system
+title: "[BUG] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use sanitized evidence only. Do not include credentials, customer data, production dumps, private keys or signing material.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope / authority
+      description: Which subsystem owns the affected state and which tenant/customer/operator scope is affected?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Sanitized environment
+      description: Commit/version, runtime, node/device/app version and relevant sanitized context.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Evidence level
+      options:
+        - PROVEN BY RUNTIME
+        - PROVEN BY TEST
+        - PROVEN BY SOURCE
+        - INFERRED
+        - UNKNOWN / UNPROVEN
+    validations:
+      required: true
+  - type: checkboxes
+    id: impact
+    attributes:
+      label: Impact flags
+      options:
+        - label: Authentication / authorization / tenant isolation may be affected.
+        - label: Persistent data, migrations or backup/restore may be affected.
+        - label: Privileged commands, provisioning or remote execution may be affected.
+  - type: textarea
+    id: evidence_details
+    attributes:
+      label: Sanitized logs / screenshots / traces
+      description: Remove secrets, customer data and sensitive production topology.
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed secrets, credentials and sensitive customer/production data.
+          required: true

@@ -1,0 +1,62 @@
+name: Operational change
+description: Plan a runtime, migration, provisioning or privileged operational change
+title: "[OPS] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form when a change may affect live state, migrations, provisioning, remote commands, releases, backup/restore or other privileged operations. Do not include secrets or customer data.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What operational outcome is required?
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: Authority / affected systems
+      description: Canonical owner, repositories, tenants, nodes, devices or services affected.
+    validations:
+      required: true
+  - type: textarea
+    id: preconditions
+    attributes:
+      label: Preconditions / gates
+      description: Required backups, health checks, approvals, maintenance state or release gates.
+    validations:
+      required: true
+  - type: textarea
+    id: execution
+    attributes:
+      label: Execution plan
+      description: Ordered, idempotent steps. Keep credentials and sensitive topology out of the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Verification plan
+      description: What source, test and runtime evidence will prove success?
+    validations:
+      required: true
+  - type: textarea
+    id: rollback
+    attributes:
+      label: Rollback / recovery
+      description: Exact rollback trigger and recovery path.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety gates
+      options:
+        - label: Scope and canonical authority are explicit.
+          required: true
+        - label: Backup/recovery impact was considered where persistent state changes.
+          required: true
+        - label: Secrets and customer data are not present in this issue.
+          required: true
