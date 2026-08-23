@@ -1,0 +1,53 @@
+name: Private feature request
+description: Propose a focused capability within an X1 private system
+title: "[FEATURE] "
+labels: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What operator, customer or system problem should be solved?
+    validations:
+      required: true
+  - type: textarea
+    id: owner
+    attributes:
+      label: Canonical owner / authority
+      description: Which repository or subsystem should own the new state or workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed capability
+      description: Describe the smallest useful change.
+    validations:
+      required: true
+  - type: textarea
+    id: contracts
+    attributes:
+      label: Contracts / integrations
+      description: APIs, events, devices, services or repositories affected.
+    validations:
+      required: true
+  - type: checkboxes
+    id: impact
+    attributes:
+      label: Impact review
+      options:
+        - label: Authentication / authorization / tenant isolation changes are required.
+        - label: Schema, migration or persistent-state changes are required.
+        - label: Privileged commands, provisioning or remote execution are required.
+        - label: Secrets, signing, encryption or release provenance are affected.
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation and rollback plan
+      description: How should the capability be tested, runtime-verified and rolled back if needed?
+    validations:
+      required: true
+  - type: textarea
+    id: unknowns
+    attributes:
+      label: Unknowns / dependencies
