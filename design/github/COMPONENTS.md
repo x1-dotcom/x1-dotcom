@@ -35,16 +35,19 @@ Use cards to explain the product quickly, not to list every feature.
 
 ### Card typography / overflow guard
 
-For command decks using four cards around 330–340 px wide, use this safe baseline:
+For README command or capability decks using four cards around 330–340 px wide, use this GitHub-safe baseline:
 
-- micro-label: **11 px**, letter-spacing no more than **2 px**;
-- capability title: **20 px**, no decorative letter-spacing;
-- supporting copy: **13.5 px**, no decorative letter-spacing;
-- horizontal process strap: **11 px**, letter-spacing no more than **3 px**.
+- micro-label: **10.5 px**, letter-spacing no more than **1.5 px**;
+- capability title: **17 px**; use **16 px** for unusually long titles;
+- supporting copy: **12.5 px**;
+- horizontal process strap: **10.5 px**, letter-spacing no more than **2 px**;
+- inner horizontal text margin: at least **22–26 px**.
 
-No text may cross a card boundary or visually collide with the next card. If copy does not fit inside the safe card width, shorten or deliberately wrap the copy; never rely on clipping and never let text overflow into an adjacent card.
+**GitHub rendering rule:** set `font-size` and `letter-spacing` directly on every SVG `<text>` element that participates in a card. Do not rely on embedded `<style>` selectors to resize README SVG text. GitHub image rendering/sanitization and browser font substitution can make CSS-based typography behave differently from the source preview.
 
-Check the rendered SVG at GitHub README display width, not only at the native 1600 px canvas size. Browser font substitution can widen text, so card typography must include margin for rendering differences.
+No text may cross a card boundary or visually collide with the next card. If copy does not fit inside the safe card width, shorten it, reduce a long title to the 16 px exception, or deliberately split it into controlled lines. Never rely on clipping and never allow text to overflow into an adjacent card.
+
+Check the rendered SVG at GitHub README display width, not only at the native 1600 px canvas size. The source must remain safe even when the preferred font is substituted.
 
 ## 4. Operational flow
 
