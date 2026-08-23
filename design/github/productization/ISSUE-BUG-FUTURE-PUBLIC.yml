@@ -1,0 +1,71 @@
+name: Internal bug report
+description: Report reproducible behavior during private development
+title: "[BUG] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository is private-development / future-public. Do not include credentials, customer/provider data, production topology or protected X1 implementation details.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Commit, target runtime/device and relevant integration context.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reproducible sequence using sanitized test data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Evidence level
+      options:
+        - PROVEN BY RUNTIME
+        - PROVEN BY TEST
+        - PROVEN BY SOURCE
+        - INFERRED
+        - UNKNOWN / UNPROVEN
+    validations:
+      required: true
+  - type: dropdown
+    id: releaseimpact
+    attributes:
+      label: Future-public release impact
+      options:
+        - Blocks public release
+        - Affects public product but not currently blocking
+        - Private-development-only
+        - Unknown / needs triage
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Boundary check
+      options:
+        - label: I removed credentials, customer/provider data and protected X1 implementation details.
+          required: true
