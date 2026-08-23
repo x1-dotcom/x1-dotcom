@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-label="X1 public software private engineering one X1 identity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#02060A"/>
+      <stop offset="0.52" stop-color="#071018"/>
+      <stop offset="1" stop-color="#02070C"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" x2="1">
+      <stop stop-color="#19F6FF"/>
+      <stop offset="0.55" stop-color="#11C9FF"/>
+      <stop offset="1" stop-color="#326BFF"/>
+    </linearGradient>
+    <linearGradient id="private" x1="0" x2="1">
+      <stop stop-color="#326BFF"/>
+      <stop offset="1" stop-color="#7B5CFF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8FB3BF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M0 9.5H10" stroke="#19E8FF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="460" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="460" rx="30" fill="url(#grid)"/>
+  <rect width="1600" height="460" rx="30" fill="url(#scan)"/>
+
+  <path d="M0 74H465L525 14H0Z" fill="#071822"/>
+  <path d="M0 386H465L525 446H0Z" fill="#071822"/>
+  <path d="M1600 74H1135L1075 14H1600Z" fill="#07131B"/>
+  <path d="M1600 386H1135L1075 446H1600Z" fill="#07131B"/>
+
+  <path d="M0 112H470L534 48" fill="none" stroke="#19E8FF" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M1600 112H1130L1066 48" fill="none" stroke="#326BFF" stroke-opacity="0.32" stroke-width="2"/>
+  <path d="M0 348H470L534 412" fill="none" stroke="#19E8FF" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M1600 348H1130L1066 412" fill="none" stroke="#7B5CFF" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g transform="translate(88 74)">
+    <text x="0" y="224" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="252" font-weight="900" letter-spacing="-18" fill="url(#brand)" filter="url(#softGlow)">X1</text>
+    <path d="M10 273H442" stroke="#19E8FF" stroke-width="5"/>
+    <circle cx="448" cy="273" r="5" fill="#19E8FF"/>
+    <text x="12" y="314" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="6" fill="#DFFBFF">SOFTWARE · SYSTEMS · OPERATIONS</text>
+  </g>
+
+  <g transform="translate(650 62)" font-family="Arial,Helvetica,sans-serif">
+    <text x="0" y="28" font-size="14" font-weight="700" letter-spacing="4.5" fill="#6ED8EA">X1 / GITHUB ENGINEERING FACE</text>
+    <text x="0" y="91" font-size="48" font-weight="900" fill="#F4FCFF">PUBLIC SOFTWARE.</text>
+    <text x="0" y="146" font-size="48" font-weight="900" fill="#19E8FF">PRIVATE ENGINEERING.</text>
+    <text x="0" y="201" font-size="48" font-weight="900" fill="#F4FCFF">ONE X1 IDENTITY.</text>
+    <text x="0" y="238" font-size="18" fill="#8FB3BF">Useful public systems. Protected commercial engineering. One visual language.</text>
+
+    <g transform="translate(0 270)">
+      <rect width="328" height="82" rx="12" fill="#071921" stroke="#19E8FF" stroke-width="2"/>
+      <text x="20" y="30" font-size="12" font-weight="700" letter-spacing="3" fill="#65DDF0">PUBLIC / COMMUNITY</text>
+      <text x="20" y="58" font-size="19" font-weight="800" fill="#F4FCFF">BUILT TO BE USED</text>
+      <path d="M279 40H302" stroke="#19E8FF" stroke-width="3"/>
+      <circle cx="307" cy="40" r="5" fill="#19E8FF"/>
+    </g>
+
+    <g transform="translate(350 270)">
+      <rect width="328" height="82" rx="12" fill="#0A111B" stroke="url(#private)" stroke-width="2"/>
+      <text x="20" y="30" font-size="12" font-weight="700" letter-spacing="3" fill="#89A6FF">COMMERCIAL / PRIVATE</text>
+      <text x="20" y="58" font-size="19" font-weight="800" fill="#F4FCFF">BUILT TO OPERATE</text>
+      <path d="M276 40H290L300 22L311 57L322 35" fill="none" stroke="#7B5CFF" stroke-width="3"/>
+    </g>
+  </g>
+
+  <g transform="translate(1432 188)" fill="none" stroke="#19E8FF" stroke-width="4">
+    <path d="M0 38H30L45 8L64 68L83 29H122"/>
+    <circle cx="127" cy="29" r="5" fill="#19E8FF" stroke="none"/>
+  </g>
+
+  <text x="800" y="435" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="5.5" fill="#6FBDCB">X1 · SOFTWARE · SYSTEMS · OPERATIONS · EVIDENCE OVER ASSUMPTION</text>
+</svg>
