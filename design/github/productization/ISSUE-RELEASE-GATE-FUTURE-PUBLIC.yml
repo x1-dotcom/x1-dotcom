@@ -1,0 +1,52 @@
+name: Public release gate
+description: Record evidence for a future-public release decision
+title: "[RELEASE GATE] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form records release evidence. A checked item without linked evidence is not proof.
+  - type: textarea
+    id: candidate
+    attributes:
+      label: Release candidate
+      description: Commit/tag/build being evaluated.
+    validations:
+      required: true
+  - type: checkboxes
+    id: gate
+    attributes:
+      label: Gate checklist
+      options:
+        - label: Repository and history secret scan reviewed
+        - label: Dependency and license review completed
+        - label: External security boundary reviewed
+        - label: Credential handling reviewed
+        - label: Supported runtime matrix executed
+        - label: Installation and configuration documentation verified
+        - label: Public licensing is explicit
+        - label: Protected X1 internals, production topology and customer/provider data are absent
+        - label: Third-party assets/components have a compatible public-release basis
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence links / results
+      description: Link commits, tests, reports and runtime evidence for the checked gates.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Decision state
+      options:
+        - BLOCKED
+        - READY FOR REVIEW
+        - APPROVED FOR PUBLIC RELEASE
+        - RELEASED PUBLIC
+    validations:
+      required: true
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Remaining blockers / unknowns
