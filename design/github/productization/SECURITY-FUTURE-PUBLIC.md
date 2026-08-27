@@ -8,7 +8,7 @@ Do not place production credentials, provider secrets, customer data, private ke
 
 Use the repository's private security reporting path where available. Otherwise request a private X1 security channel through the official website before sending sensitive technical details.
 
-Website: https://x1panel.space
+Website: https://x1panelhq.com
 
 ## Include
 
