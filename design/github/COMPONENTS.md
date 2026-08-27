@@ -101,17 +101,19 @@ Maximum 3–5 links. Avoid reproducing the entire ecosystem in every repository.
 
 ## 8. Community CTA
 
-Canonical destinations:
+Canonical destinations (from `x1-dotcom/network` namespace authority):
 
-- Website — `https://x1panel.space`
-- Forum — `https://forum.x1panel.space`
-- Store — `https://store.x1panel.space`
+- Website — `https://x1panelhq.com`
+- Forum — `https://forum.x1panelhq.com`
+- Store — `https://store.x1panelhq.com`
 - Discord — `https://discord.gg/vSSw6jHmw`
 - Telegram — `https://t.me/+XkuQS_QuD6g4Nzc0`
 
 For public repositories, Forum / Discord / Telegram should normally be visible.
 
 For private repositories, only include community links where they serve the product.
+
+Do not introduce new `x1panel.space` links in public-facing GitHub pages. That zone is legacy/compatibility and may appear only where a technical document intentionally describes legacy state.
 
 ## 9. Footer
 
