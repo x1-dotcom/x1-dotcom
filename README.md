@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://x1panel.space"><strong>WEBSITE</strong></a>
+  <a href="https://x1panelhq.com"><strong>WEBSITE</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://forum.x1panel.space"><strong>FORUM</strong></a>
+  <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://store.x1panel.space"><strong>STORE</strong></a>
+  <a href="https://store.x1panelhq.com"><strong>STORE</strong></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
   &nbsp;·&nbsp;
@@ -172,7 +172,7 @@ The public X1 GitHub presentation follows one visual system across product repos
 ## COMMUNITY // SUPPORT // DEVELOPMENT
 
 <p align="center">
-  <a href="https://forum.x1panel.space"><strong>FORUM</strong></a>
+  <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
   &nbsp;·&nbsp;
@@ -189,9 +189,9 @@ The public X1 GitHub presentation follows one visual system across product repos
 <p align="center">
   <strong>X1 // SOFTWARE · SYSTEMS · OPERATIONS</strong><br><br>
   PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.<br><br>
-  <a href="https://x1panel.space">Website</a> ·
-  <a href="https://forum.x1panel.space">Forum</a> ·
-  <a href="https://store.x1panel.space">Store</a> ·
+  <a href="https://x1panelhq.com">Website</a> ·
+  <a href="https://forum.x1panelhq.com">Forum</a> ·
+  <a href="https://store.x1panelhq.com">Store</a> ·
   <a href="https://discord.gg/vSSw6jHmw">Discord</a> ·
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0">Telegram</a><br><br>
   <strong>© X1Tech Solutions SA · All Rights Reserved</strong>
