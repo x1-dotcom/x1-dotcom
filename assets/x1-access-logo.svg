@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">X1 Secure Access</title>
+  <desc id="desc">X1 cyan mark for Cloudflare Access and Gateway branding.</desc>
+  <rect width="512" height="512" rx="104" fill="#02060A"/>
+  <rect x="34" y="34" width="444" height="444" rx="86" fill="#071018" stroke="#173342" stroke-width="8"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M126 152 L242 256 L126 360" stroke="#19E8FF" stroke-width="42"/>
+    <path d="M256 152 L170 256 L256 360" stroke="#326BFF" stroke-width="42"/>
+  </g>
+  <path d="M322 178 H390 V342" fill="none" stroke="#F4FCFF" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M314 342 H408" fill="none" stroke="#F4FCFF" stroke-width="42" stroke-linecap="round"/>
+  <circle cx="420" cy="104" r="14" fill="#27E39B"/>
+</svg>
