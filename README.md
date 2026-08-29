@@ -25,7 +25,7 @@
 **X1 is a software and technology ecosystem built around practical control, operational clarity and engineering that solves real problems.**
 
 > ### PUBLIC SOFTWARE SHOULD BE USEFUL AS RELEASED.
-> We do not publish intentionally crippled projects simply to sell the missing functionality back later.
+> If X1 intentionally publishes software in a public repository, it is genuinely free as published — not a fake trial, not a like/star-gated download and not intentionally crippled to force a purchase.
 
 Public software, commercial products and private engineering have clear boundaries — under **one X1 identity**.
 
@@ -85,13 +85,44 @@ Public software, commercial products and private engineering have clear boundari
 
 ---
 
+## PUBLIC / FREE != COMMERCIAL / PRIVATE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>PUBLIC / FREE</strong><br><br>
+Useful as released<br>
+No like/star gate to unlock the download<br>
+Community support and public issue reporting<br>
+Repository-specific capability and compatibility
+</td>
+<td width="50%" valign="top">
+<strong>COMMERCIAL / PRIVATE</strong><br><br>
+Separate products and licences<br>
+Broader operational/product scopes where approved<br>
+Private integrations and protected engineering where applicable<br>
+Current availability defined by product/commercial authority — not repository visibility
+</td>
+</tr>
+</table>
+
+The X1 model is not `FREE DEMO → PAY TO UNLOCK`.
+
+It is:
+
+`PUBLIC SOFTWARE → REAL VALUE + TRUST → COMMERCIAL X1 WHEN A BROADER OPERATIONAL NEED EXISTS`
+
+A public repository does not automatically include a commercial SLA or the scope of a commercial product. A private repository is not automatically a Store SKU, customer-facing product or future launch promise.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/x1-dotcom/x1-dotcom/main/assets/x1-commercial-core-v2.svg" alt="X1 Commercial Platform" width="100%" />
 </p>
 
-## X1 IPTV PLATFORM
+## X1 PLATFORM // COMMERCIAL OPERATIONS
 
-**A dedicated X1 system for serious IPTV operations.**
+**A dedicated X1 system for structured IPTV operations.**
 
 | Built for | Position |
 |---|---|
@@ -100,7 +131,7 @@ Public software, commercial products and private engineering have clear boundari
 | Structured operational workflows | Designed for reliability and control |
 | Production environments | Commercial engineering remains protected |
 
-The platform is built to operate — not presented as a re-skin, public app panel or collection of paid unlocks.
+The platform is built to operate — not presented as a re-skin, a public app panel or a collection of paid unlocks for intentionally withheld public functionality.
 
 ---
 
@@ -110,13 +141,31 @@ The platform is built to operate — not presented as a re-skin, public app pane
 
 ## AURA // INTELLIGENT OPERATIONS
 
-**AURA turns supported operational signals into controlled outcomes.**
+**Aura is X1's intelligent assistance and support/operations-orchestration layer, operating within explicit authority and verification boundaries.**
 
-`DETECT` → `UNDERSTAND` → `REMEDIATE` → `VERIFY` → `REPORT`
+`UNDERSTAND` → `ASSIST` → `ACT WHERE AUTHORIZED` → `VERIFY WHERE OBSERVABLE` → `ESCALATE`
 
-For supported workflows, AURA coordinates safe actions and verifies the result. Sensitive operations remain governed by permissions, policy and approval controls.
+Capabilities are surface-specific. On the currently proven X1 Panel Operator chat surface, Aura provides Gateway-backed conversational assistance and escalation; that surface does **not** execute sovereign/state-changing actions and does **not** claim live panel diagnostics.
 
-> **The best support interaction is sometimes the one where the supported issue is already resolved before it becomes a ticket.**
+Where another Aura surface has an approved tool or authority, its capability must be proven for that exact surface before it is described as executed or verified.
+
+> **REQUESTED != EXECUTED != VERIFIED**
+
+---
+
+## X1 // EVIDENCE MODEL
+
+**In X1, the code existing is not the same thing as the feature being available.**
+
+`IMPLEMENTED != TESTED != RUNTIME VERIFIED != PRODUCTION AVAILABLE`
+
+A Git commit can prove an implementation exists. A test can prove defined behaviour under test conditions. Stronger production or customer-facing claims require stronger evidence from the intended runtime and commercial authority.
+
+One bounded production proof is the generic signed licence/snapshot transport foundation: X1 records E2E production evidence for signed snapshot fetch, signature verification and persistence by the target panel. That proof does **not** automatically prove every plugin purchase/suspend/unsuspend/terminate lifecycle or every plugin runtime effect.
+
+> **Claims stop at the strongest state actually proven. Proof is strongest when the limitation travels with it.**
+
+[Read the X1 Evidence & Trust model →](./docs/EVIDENCE_AND_TRUST.md)
 
 ---
 
