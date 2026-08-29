@@ -153,6 +153,22 @@ Where another Aura surface has an approved tool or authority, its capability mus
 
 ---
 
+## X1 // EVIDENCE MODEL
+
+**In X1, the code existing is not the same thing as the feature being available.**
+
+`IMPLEMENTED != TESTED != RUNTIME VERIFIED != PRODUCTION AVAILABLE`
+
+A Git commit can prove an implementation exists. A test can prove defined behaviour under test conditions. Stronger production or customer-facing claims require stronger evidence from the intended runtime and commercial authority.
+
+One bounded production proof is the generic signed licence/snapshot transport foundation: X1 records E2E production evidence for signed snapshot fetch, signature verification and persistence by the target panel. That proof does **not** automatically prove every plugin purchase/suspend/unsuspend/terminate lifecycle or every plugin runtime effect.
+
+> **Claims stop at the strongest state actually proven. Proof is strongest when the limitation travels with it.**
+
+[Read the X1 Evidence & Trust model →](./docs/EVIDENCE_AND_TRUST.md)
+
+---
+
 ## PUBLIC FACE // PRIVATE ENGINEERING
 
 <table>
