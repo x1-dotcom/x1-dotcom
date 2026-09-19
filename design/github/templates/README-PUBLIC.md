@@ -12,8 +12,6 @@
   &nbsp;·&nbsp;
   <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><strong>TELEGRAM</strong></a>
 </p>
 
@@ -79,7 +77,6 @@
 ## Community
 
 - Forum — https://forum.x1panelhq.com
-- Discord — https://discord.gg/vSSw6jHmw
 - Telegram — https://t.me/+XkuQS_QuD6g4Nzc0
 
 ---

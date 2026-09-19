@@ -106,7 +106,6 @@ Canonical destinations (from `x1-dotcom/network` namespace authority):
 - Website — `https://x1panelhq.com`
 - Forum — `https://forum.x1panelhq.com`
 - Store — `https://store.x1panelhq.com`
-- Discord — `https://discord.gg/vSSw6jHmw`
 - Telegram — `https://t.me/+XkuQS_QuD6g4Nzc0`
 
 For public repositories, Forum / Discord / Telegram should normally be visible.

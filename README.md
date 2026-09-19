@@ -7,18 +7,23 @@
 </p>
 
 <p align="center">
-  <a href="https://x1panelhq.com"><strong>WEBSITE</strong></a>
+  <a href="https://x1panelhq.com/?utm_source=github&utm_medium=repo&utm_campaign=x1_launch_2026"><strong>WEBSITE</strong></a>
   &nbsp;·&nbsp;
   <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://store.x1panelhq.com"><strong>STORE</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
+  <a href="https://store.x1panelhq.com/?utm_source=github&utm_medium=repo&utm_campaign=x1_launch_2026"><strong>STORE</strong></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><strong>TELEGRAM</strong></a>
 </p>
 
 ---
+
+<p align="center">
+  <strong>X1 IPTV Panel</strong> and <strong>X1 Player Cloud</strong> are now available.<br>
+  <a href="https://x1panelhq.com/?utm_source=github&utm_medium=profile&utm_campaign=x1_launch_2026">See plans and prices</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/X1Architectbot">Open X1 on Telegram</a>
+</p>
 
 ## X1 // SOFTWARE THAT OPERATES
 
@@ -174,8 +179,6 @@ The public X1 GitHub presentation follows one visual system across product repos
 <p align="center">
   <a href="https://forum.x1panelhq.com"><strong>FORUM</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://discord.gg/vSSw6jHmw"><strong>DISCORD</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0"><strong>TELEGRAM</strong></a>
 </p>
 
@@ -189,10 +192,9 @@ The public X1 GitHub presentation follows one visual system across product repos
 <p align="center">
   <strong>X1 // SOFTWARE · SYSTEMS · OPERATIONS</strong><br><br>
   PUBLIC SOFTWARE. PRIVATE ENGINEERING. ONE X1 IDENTITY.<br><br>
-  <a href="https://x1panelhq.com">Website</a> ·
+  <a href="https://x1panelhq.com/?utm_source=github&utm_medium=repo&utm_campaign=x1_launch_2026">Website</a> ·
   <a href="https://forum.x1panelhq.com">Forum</a> ·
-  <a href="https://store.x1panelhq.com">Store</a> ·
-  <a href="https://discord.gg/vSSw6jHmw">Discord</a> ·
+  <a href="https://store.x1panelhq.com/?utm_source=github&utm_medium=repo&utm_campaign=x1_launch_2026">Store</a> ·
   <a href="https://t.me/+XkuQS_QuD6g4Nzc0">Telegram</a><br><br>
   <strong>© X1Tech Solutions SA · All Rights Reserved</strong>
 </p>
