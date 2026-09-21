@@ -25,6 +25,11 @@
   <a href="https://t.me/X1Architectbot">Open X1 on Telegram</a>
 </p>
 
+<p align="center">
+  <strong>Try X1 free for 24 hours &mdash; no credit card.</strong><br>
+  <a href="https://store.x1panelhq.com/trial/?utm_source=github&utm_medium=profile&utm_campaign=x1_trial_2026">Start the free trial</a>
+</p>
+
 ## X1 // SOFTWARE THAT OPERATES
 
 **X1 is a software and technology ecosystem built around practical control, operational clarity and engineering that solves real problems.**
